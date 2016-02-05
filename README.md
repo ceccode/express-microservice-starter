@@ -2,6 +2,8 @@
 
 NodeJS microservice starter app.
 
+[![Build Status](https://travis-ci.org/Palmabit-IT/express-microservice-starter.svg?branch=master)](https://travis-ci.org/Palmabit-IT/express-microservice-starter)
+
 ## Installation
 
 ```
