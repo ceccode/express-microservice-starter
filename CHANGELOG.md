@@ -7,6 +7,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - /heartbeat endpoint
 ### Updated
 - test
+### Deleted
+- support for node 0.10, 0.12
 
 ## 1.0.0 - 2016-02-05
 ### Added
