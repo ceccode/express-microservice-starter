@@ -1,6 +1,6 @@
 {
   "name": "express-microservice-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS microservice starter app.",
   "main": "index.js",
   "scripts": {
